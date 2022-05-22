@@ -1,4 +1,3 @@
-from black import out
 import numpy as np
 import pandas as pd
 from flask import Flask, redirect, request, render_template

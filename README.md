@@ -9,12 +9,12 @@ Python 3.6+ is required to run code from this repo.
 ```console
 $ git clone https://github.com/Neelaksh-Singh/symmetrical-octo-robot.git
 $ cd symmetrical-octo-robot/
-$ py -m venv mltut
+$ python -m venv mltut
 $ mltut\Scripts\activate.bat
 $ pip install -r requirements.txt 
 ```
 Now once the setup is done do the following 
 
 ```console
-$ python3 app.py
+$ python app.py
 ```
