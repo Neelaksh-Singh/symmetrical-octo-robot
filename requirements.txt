@@ -4,3 +4,5 @@ numpy
 pandas
 flask
 seaborn
+joblib
+sklearn
